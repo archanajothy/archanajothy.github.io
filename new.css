@@ -1,0 +1,58 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+.greetingContainer {
+    margin: 5em 1em 1em 5em;
+}
+.headline {
+    text-align: left;
+    padding-left: 80.0px;
+    font-size: 2.0em;
+} 
+.textdescription{
+    text-align: left;
+    padding-left: 200.0px;
+    font-size: 2.0em;
+    margin: 4e 1em 1em 4em;
+    
+
+}
+.textnote{    
+    text-align: left;
+    padding-left: 100.0px;
+    font-size: 1.5em;
+    margin: 4em 1em 1em 4em;
+}
+body{    
+    background-image:url("./d.image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    scroll: no;
+    
+
+}
+
+.link div .fa {
+    color: white;
+    font-size: 1.5em;
+}
+.link div {
+    padding: 0em 1em;
+    font-size: 50px;
+    /* color: white; */
+    text-shadow: 1px 1px 1px #000000;
+}
+
+
+.link {
+    display: flex;
+    justify-content: center;
+} 
+
+
+
+
+
+
